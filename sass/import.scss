@@ -1,0 +1,23 @@
+@import "mixen.scss";
+@import "main.scss";
+@import "header.scss";
+@import "footer.scss";
+
+
+ul{
+    margin: 0;
+    padding: 0;
+    li{
+        list-style: none;
+    }
+}
+*{
+    margin: 0;
+    padding: 0;  
+}
+a{
+    text-decoration: none;
+}
+p{
+    margin: 0;
+}
